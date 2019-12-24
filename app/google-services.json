@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006618908334",
+    "firebase_url": "https://izlemelik-261f7.firebaseio.com",
+    "project_id": "izlemelik-261f7",
+    "storage_bucket": "izlemelik-261f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006618908334:android:b572377922e6dad2",
+        "android_client_info": {
+          "package_name": "com.example.tazemeta.izlemelik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006618908334-dq2ugeqd3gsa3vmpbs0srl9hbgfdpo17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tazemeta.izlemelik",
+            "certificate_hash": "e7841b1e0ffdeeb0b7f86e8923c22fdbc95171c8"
+          }
+        },
+        {
+          "client_id": "1006618908334-56mf27f4quofd6hboohvohjkhb1l2flm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMHcf38aQDOyTue35yHVlxWir1VhYsDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006618908334-56mf27f4quofd6hboohvohjkhb1l2flm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
